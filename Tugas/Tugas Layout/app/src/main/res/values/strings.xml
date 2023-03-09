@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment bio</string>
+    <string name="deskripsi">Saya Bima Satria dari prodi Teknik Informatika. Hal yang saya sukai adalah
+        mendesain UI/UX, menggambar, dan coding. </string>
+    <string name="download">&#xf062; Download</string>
+</resources>
