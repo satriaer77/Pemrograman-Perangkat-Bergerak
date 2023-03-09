@@ -1,3 +1,3 @@
-# Prapp
+# Pemrograman Perangkat Bergerak
 
-Profile App
+Repository kumpulan tugas Pemrograman Perangkat Bergerak
